@@ -1,0 +1,3 @@
+[submodule "submodule_level2"]
+	path = submodule_level2
+	url = git@github.com:rchincholkar/submodule_level2.git
